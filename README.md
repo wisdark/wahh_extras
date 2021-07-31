@@ -4,10 +4,6 @@ The Web Application Hacker's Handbook - Extra Content
 
 For all of you who have read "The web application hacker's handbook vol2", there are several references to extras, questions, source code that are not easy to found. I've collected all in this repository.
 
-You can support this work buying me a coffee:
-
-[<img src="https://www.buymeacoffee.com/assets/img/guidelines/bmc-coffee.gif">](https://www.buymeacoffee.com/six2dez)
-
 ## TOC
 
 - Web applications pentesting
